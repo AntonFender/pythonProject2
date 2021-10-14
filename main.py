@@ -9,3 +9,6 @@ def do_print():
 
 def do_sleep():
     time.sleep(5)
+
+do_print()
+do_sleep()
